@@ -10,7 +10,7 @@ star: true
 
 # glTF：glTF Tutorial
 
-本系列是 KhronosGroup 所寫的 [glTF-Tutorials](https://github.com/KhronosGroup/glTF-Tutorials) 的中文翻譯與筆記，主要放在我的個人 Blog 上供人閱讀
+本系列是 KhronosGroup 所寫的 [glTF-Tutorials](https://github.com/KhronosGroup/glTF-Tutorials) 的中文翻譯與筆記，主要放在[我的個人 Blog](https://mes0903.github.io/ComputerGraphic/gltf/) 上供人閱讀
 
 原作者為 Marco Hutter, [@javagl](https://github.com/javagl)
 
