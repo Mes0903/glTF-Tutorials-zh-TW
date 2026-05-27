@@ -43,7 +43,7 @@ category: computer-graphic
 
 下圖 18a 展示了初始三角形的幾何（黑色），第一個 morph target 的位移（紅色），與第二個 morph target 的位移（綠色）：
 
-![（Image 18a: The initial triangle and morph target displacements.）](image/simpleMorphInitial.png)
+![（Image 18a: The initial triangle and morph target displacements.）](./image/simpleMorphInitial.png)
 
 這個 mesh 中的 `weights` 用來決定要將這些 morph target 的位移要加到多少量到原始幾何上，以得到目前的幾何狀態。 下面的 pseudocode 說明 mesh `primitive` 的渲染頂點位置怎麼算：
 
@@ -73,4 +73,4 @@ renderedPrimitive.POSITION = primitive.POSITION
 
 以下是動畫時間為 1.25 秒時的狀態，此時動畫 sampler 給出的權重為 `(0.25, 1.0)`，會拿來對 morph target 的位移做線性組合：
 
-![（Image 18b: An intermediate state of the morph target animation.）](image/simpleMorphIntermediate.png)
+![（Image 18b: An intermediate state of the morph target animation.）](./image/simpleMorphIntermediate.png)

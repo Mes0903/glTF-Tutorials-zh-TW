@@ -84,7 +84,7 @@ category: computer-graphic
 }
 ```
 
-![（Image 3a: A single triangle.）](image/triangle.png)
+![（Image 3a: A single triangle.）](./image/triangle.png)
 
 ## The `scene` and `nodes` structure
 

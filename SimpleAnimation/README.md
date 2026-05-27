@@ -134,7 +134,7 @@ category: computer-graphic
 }
 ```
 
-![（Image 6a: A single, animated triangle.）](image/animatedTriangle.gif)
+![（Image 6a: A single, animated triangle.）](./image/animatedTriangle.gif)
 
 ## The `rotation` property of the `node`
 

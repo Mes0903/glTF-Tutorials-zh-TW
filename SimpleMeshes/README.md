@@ -106,7 +106,7 @@ category: computer-graphic
 
 下圖 8a 是該 glTF asset 渲染的結果：
 
-![（Image 8a: A simple mesh, attached to two nodes.）](image/simpleMeshes.png)
+![（Image 8a: A simple mesh, attached to two nodes.）](./image/simpleMeshes.png)
 
 ## The mesh definition
 
